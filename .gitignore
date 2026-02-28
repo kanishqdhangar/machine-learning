@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Data files (Common in NumPy/Pandas practice)
+*.csv
+*.xlsx
+*.json
+*.zip
+*.tar.gz
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
